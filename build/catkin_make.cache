@@ -1,2 +1,0 @@
-catkin-pkg/robotino_description:catkin-pkg/robotino_local_move:catkin-pkg/robotino_local_planner:catkin-pkg/robotino_msgs:catkin-pkg/robotino_navigation:catkin-pkg/robotino_node:catkin-pkg/robotino_safety:catkin-pkg/robotino_teleop_
--DCATKIN_DEVEL_PREFIX=/home/biorobotica/festino/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/biorobotica/festino/catkin_ws/install -G Unix Makefiles
